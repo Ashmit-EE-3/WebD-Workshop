@@ -1,0 +1,26 @@
+Learning HTML : 
+
+1. Installing VS Code. 
+2. Visitng Some Website. 
+3. Installing Live Server Extension.
+
+
+Script : 
+
+Jb bhi hum koi website bnate h toh hamare paas do parts h : pehle hota h frontend aur doosra hota h backend 
+
+Frontend : jo bhi website ka design h.. jo kuch bhi hume samne se dikh rha h kisi bhi website mein 
+
+Backend : 
+
+FrontEnd : 
+
+1. HTML - basic structure of a website define krta h
+2. CSS - 
+3. Javascript - 
+
+
+HTML - Hyper Text Markup Language - ek aesi type ki lan
+HTML Tag - Container hold krta any content that needs to be displayed on the website. 
+Basic HTML Page - 
+difference between class and id 
